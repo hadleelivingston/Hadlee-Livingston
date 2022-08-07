@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head>
+</head>
+<body>
+<h1 style='text-align:center;color:Red;background-color:gold;font-size:60px'>MANCHESTER UNITED</h1>
+<hr>
+<h1>PREMIER LEAGUE CLUB</h1>
+<p>Manchester United Football Club, commonly referred to as Man United (often stylised as Man Utd), or simply United, is a professional football club based in the Old Trafford area of Manchester, England.<br> The club competes in the Premier League, the top division in the English football league system.<br> Nicknamed the Red Devils, it was founded as Newton Heath LYR Football Club in 1878</p>
+<img src=https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png alt=ManUTD < width=250 height=250>
+<br><br><br>
+<a href=https://en.wikipedia.org/wiki/Manchester_United_F.C.>for further Details </a>
+<hr>
+</body>
+</html>
